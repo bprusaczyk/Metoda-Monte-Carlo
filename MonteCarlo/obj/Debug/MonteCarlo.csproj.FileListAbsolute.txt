@@ -1,0 +1,6 @@
+C:\do_usuniecia_w_przyszlosci\monte-carlo\Metoda-Monte-Carlo\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.exe.config
+C:\do_usuniecia_w_przyszlosci\monte-carlo\Metoda-Monte-Carlo\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.exe
+C:\do_usuniecia_w_przyszlosci\monte-carlo\Metoda-Monte-Carlo\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.pdb
+C:\do_usuniecia_w_przyszlosci\monte-carlo\Metoda-Monte-Carlo\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.csprojResolveAssemblyReference.cache
+C:\do_usuniecia_w_przyszlosci\monte-carlo\Metoda-Monte-Carlo\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.exe
+C:\do_usuniecia_w_przyszlosci\monte-carlo\Metoda-Monte-Carlo\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.pdb
